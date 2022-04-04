@@ -78,21 +78,7 @@ def jalan(z):
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(00000.1)
-##### LOGO #####
-logo = """
-   BDHACKER2022
-   ▄︻̷̿┻̿═━一
-   ZIHAD HOSSAIN RAFI 
-   THE LEGEND RAFI
-   BANGLADESG HACKERS
-   ▄︻̷̿┻̿═━一
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlBDHACKER2022
-\033[1;96mYouTube \033[1;93m: \033[1;92mBangladeshi Hackers
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/BDHACKER2022
-\033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/zihad.hossain36
-\033[1;91m======================================="""
-
+ 
 def main():
 	os.system("clear")
 	logo()
